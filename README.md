@@ -59,6 +59,6 @@ Restrictions
 * In HTML lines must not start with `#`.
 * JavaScript must use `/*` and `*/` comments.
 * JavaScript comments will be totaly removed in C++ source.
-* All the newlines will be romowed from HTML document that is embedded in C++ source (use `;` in JavaScript!).
+* All the newlines will be remowed from HTML document that is embedded in C++ source (use `;` in JavaScript!).
 * `\` must be replaced with `\\` (beware JavaScript regex users!)
 * HTML page must start with: ``` <!-- HTML_HELPER const char html_page[] = TO_STRING( <!-- --> <!DOCTYPE html> ```.
